@@ -39,9 +39,9 @@ A project for lane detection and road marking segmentation on embedded device fo
 |      30     |     slow down      |     Slow down             |   减速标志|
 
 ## Annotation examples
-1 lane line
-![lane line](https://github.com/namemzy/Road-Marking-Segmentation/blob/master/annotation%20examples/lane%20line.png)
-2 stop line
-![stop line](https://github.com/namemzy/Road-Marking-Segmentation/blob/master/annotation%20examples/stop%20line.png)
-3 zebra crossing
-![zebra crossing](https://github.com/namemzy/Road-Marking-Segmentation/blob/master/annotation%20examples/zebra%20crossing.png)
+1 lane line  
+![lane line](https://github.com/namemzy/Road-Marking-Segmentation/blob/master/annotation%20examples/lane%20line.png)  
+2 stop line  
+![stop line](https://github.com/namemzy/Road-Marking-Segmentation/blob/master/annotation%20examples/stop%20line.png)  
+3 zebra crossing  
+![zebra crossing](https://github.com/namemzy/Road-Marking-Segmentation/blob/master/annotation%20examples/zebra%20crossing.png)  
