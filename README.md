@@ -47,4 +47,5 @@ A project for lane detection and road marking segmentation on embedded device fo
 ![zebra crossing](https://github.com/namemzy/Road-Marking-Segmentation/blob/master/annotation%20examples/zebra%20crossing.png) 
 
 ## 师弟复现和改进的Advanced Lane Detection
-https://github.com/chiyukunpeng/Tradition_Lane_Detection
+`github：`https://github.com/chiyukunpeng/Tradition_Lane_Detection
+`博客：`https://blog.csdn.net/chiyukunpeng/article/details/96309991
